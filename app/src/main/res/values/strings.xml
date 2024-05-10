@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Shiny Counter</string>
+    <string name="title_hunt">Hunt</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_saves">Saves</string>
+
+    <string name="txt_hunt_hint">Enter Hunt Name</string>
+    <string name="txt_count_default">0</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string-array name="hunt_status">
+        <item>In Progress</item>
+        <item>Complete</item>
+        <item>Abandoned</item>
+    </string-array>
+    <string name="FAB_button_des">Save Button</string>
+    <string name="FAB_set_button_des">Set Buttons, Changes hunt selections</string>
+
+    <string name="odds_hint">Enter Odds (Ex: 1/100)</string>
+    <string name="set_counter_hint">Enter Count</string>
+    <string name="btn_set_name">Set Name</string>
+    <string name="btn_set_odds">Set Odds</string>
+    <string name="btn_set_count">Set Count</string>
+    <string name="btn_set_status">Set Status</string>
+</resources>
